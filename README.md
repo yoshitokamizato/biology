@@ -1,6 +1,7 @@
 # biology
 
-ソースコードをクローンするフォルダへ移動：cd desktop
+ソースコードをクローンするフォルダへ移動：
+`cd desktop`
 
 ソースコードをクローンする：git remote add origin https://github.com/yoshitokamizato/biology.git
 
